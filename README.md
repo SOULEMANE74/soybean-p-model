@@ -30,10 +30,3 @@ Le jeu de données contient plus de 55 000 enregistrements sur différentes pr
 2. Placer le fichier de données dans le dossier du projet.
 3. Ouvrir et exécuter le notebook `sooja predictor.ipynb`.
 
-## Auteur
-
-Projet réalisé par [Ton Nom] dans le cadre d’une étude sur l’agriculture durable au Togo.
-
----
-
-**N’hésitez pas à ouvrir une issue ou à proposer une pull request pour toute amélioration !**
